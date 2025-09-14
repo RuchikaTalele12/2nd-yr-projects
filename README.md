@@ -1,8 +1,5 @@
 # Frontend Projects 🌐
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/commits/main)
-
 This repository contains a collection of frontend projects created by Arman Idrisi. Each project is built using HTML, CSS, and JavaScript.
 
 ## Projects 📂
@@ -12,19 +9,7 @@ This repository contains a collection of frontend projects created by Arman Idri
 | --- | ------------ | ---------------------------- |
 | 01  | Landing Page | [Click Here](./project-1) |
 | 02  | Calculator | [Click Here](./project-2) |
-=======
-| Project Name | Link |
-| --- | --- |
-| Landing Page | [Click Here](./project-1) |
->>>>>>> d2b14640661e9c664b49a0a3150455af5669490f
 
-## Installation 🚀
-
-To run any of the projects locally, simply clone this repository using the following command:
-
-```bash
-git clone https://github.com/ArmanIdrisi/frontend-projects.git
-```
 
 ## Usage 💻
 
