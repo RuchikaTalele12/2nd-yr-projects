@@ -5,10 +5,10 @@ This repository contains a collection of frontend projects created by Arman Idri
 ## Projects 📂
 
 <<<<<<< HEAD
-| #   | Project Name | Link                         |
-| --- | ------------ | ---------------------------- |
-| 01  | Landing Page | [Click Here](./project-1) |
-| 02  | Calculator | [Click Here](./project-2) |
+| #   | Project Name
+| --- | ------------ 
+| 01  | Landing Page
+| 02  | Calculator 
 
 
 ## Usage 💻
